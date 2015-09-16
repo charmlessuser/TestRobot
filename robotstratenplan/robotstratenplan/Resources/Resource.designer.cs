@@ -60,6 +60,9 @@ namespace robotstratenplan
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050007
+			public const int btn_bevat = 2131034119;
+			
 			// aapt resource value: 0x7f050004
 			public const int btn_detail = 2131034116;
 			
@@ -68,6 +71,12 @@ namespace robotstratenplan
 			
 			// aapt resource value: 0x7f050000
 			public const int btn_voorwaarts = 2131034112;
+			
+			// aapt resource value: 0x7f050006
+			public const int et_coordinaten = 2131034118;
+			
+			// aapt resource value: 0x7f050005
+			public const int tv_coordinaten = 2131034117;
 			
 			// aapt resource value: 0x7f050003
 			public const int tv_debug = 2131034115;

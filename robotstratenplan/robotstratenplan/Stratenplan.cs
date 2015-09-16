@@ -82,6 +82,14 @@ namespace robotstratenplan
 
 			return output;
 		}
+
+		public bool bevat(int x, int y){
+			if (plaats [x, y] == "X") {
+				return true;
+			} else {
+				return false;
+			}
+		}
 	
 	}}
 

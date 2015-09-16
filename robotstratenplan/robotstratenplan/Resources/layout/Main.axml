@@ -15,10 +15,9 @@
         android:id="@+id/btn_linksom" />
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="235.3dp"
+        android:layout_height="208.6dp"
         android:id="@+id/tv_stratenplan" />
     <TextView
-        android:text="Tex"
         android:layout_width="match_parent"
         android:layout_height="70.8dp"
         android:id="@+id/tv_debug" />
@@ -27,4 +26,20 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btn_detail" />
+    <TextView
+        android:text="Geef coördinaten in vorm x,y"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="29.2dp"
+        android:id="@+id/tv_coordinaten" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/et_coordinaten"
+        android:maxLength="4" />
+    <Button
+        android:text="Bevat?"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_bevat" />
 </LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <Button
+        android:id="@+id/btn_voorwaarts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="voorwaarts" />
+    <Button
+        android:text="linksom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_linksom" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="235.3dp"
+        android:id="@+id/tv_stratenplan" />
+    <TextView
+        android:text="Tex"
+        android:layout_width="match_parent"
+        android:layout_height="70.8dp"
+        android:id="@+id/tv_debug" />
+    <Button
+        android:text="detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_detail" />
+</LinearLayout>

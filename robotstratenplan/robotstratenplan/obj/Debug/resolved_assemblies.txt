@@ -1,0 +1,6 @@
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\assemblies\robotstratenplan.dll
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\assemblies\System.Core.dll
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\assemblies\System.dll
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\assemblies\System.Xml.dll

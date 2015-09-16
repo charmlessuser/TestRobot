@@ -1,0 +1,16 @@
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\bin\Debug\robotstratenplan.dll
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\bin\Debug\robotstratenplan.pdb
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\bin\Debug\com.companyname.robotstratenplan.apk
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\bin\Debug\com.companyname.robotstratenplan-Signed.apk
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\robotstratenplan.dll
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\robotstratenplan.pdb
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\android\bin\com.companyname.robotstratenplan.apk
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\res\layout\main.xml
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\res\values\strings.xml
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\R.cs.flag
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan\obj\Debug\uploadflags.txt

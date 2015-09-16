@@ -1,0 +1,9 @@
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan.UITests\bin\Debug\robotstratenplan.UITests.dll
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan.UITests\bin\Debug\robotstratenplan.UITests.pdb
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan.UITests\bin\Debug\nunit.framework.dll
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan.UITests\bin\Debug\nunit.framework.xml
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan.UITests\obj\Debug\robotstratenplan.UITests.csprojResolveAssemblyReference.cache
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan.UITests\obj\Debug\robotstratenplan.UITests.dll
+C:\Users\Rico\Documents\Projects\robotstratenplan\robotstratenplan.UITests\obj\Debug\robotstratenplan.UITests.pdb
